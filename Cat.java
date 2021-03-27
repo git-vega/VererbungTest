@@ -1,6 +1,6 @@
 
 public class Cat {
-	//Attribute
+	//Attribute für Cat
 	String name;
 	int age;
 	String color;
