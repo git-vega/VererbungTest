@@ -14,4 +14,8 @@ public class Dog {
 	public void bark() {
 		System.out.println("Wau");
 	}
+	
+	public void run() {
+		System.out.println("vamos galope..");
+	}
 }
